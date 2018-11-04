@@ -177,5 +177,6 @@ header .side-nav li a:hover { background-color: rgba(158, 233, 37, 0.3);  }
 #nossos-planos .card-action .fa-check { color: #000; margin-right: 10px; font-weight: bold;}
 #nossos-planos .btn-card { background-color: rgba(204, 204, 204, 0.7); padding: 5% ; border-radius: 0 0 10px 10px; }
 #nossos-planos .btn-card .btn { background-color: #9ee925; width: 100%; color: #1d2331; font-weight: bold; }
+#nossos-planos .btn-card .btn:hover { box-shadow: 4px 4px 4px #000; }
 /*==============================================================================*/
 

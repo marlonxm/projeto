@@ -122,13 +122,13 @@
 						    <p class="white-text">Como você deseja que retornemos o contato?</p>
 						    <p>
 						      <input class="with-gap" name="tp-contato" type="radio" id="whatsapp" value="WhatsApp" />
-						      <label for="whatsapp">WhatsApp</label>
+						      <label for="whatsapp">WhatsApp</label><br>
 						    
 						      <input class="with-gap" value="E-mail" name="tp-contato" type="radio" id="email" />
-						      <label for="email">E-mail</label>
+						      <label for="email">E-mail</label><br>
 						    
 						      <input class="with-gap" value="Telefonema" name="tp-contato" type="radio" id="telefonema"  />
-						      <label for="telefonema">Telefonema</label>
+						      <label for="telefonema">Telefonema</label><br>
 						    </p>						    
 						</div>
 
@@ -136,16 +136,16 @@
 						    <p class="white-text">Qual orçamento gostaria receber?</p>
 						    <p>
 						      <input class="with-gap" name="orcamento" type="radio" id="mes" value="mensal" />
-						      <label for="mes">Mensal</label>
-						    
+						      <label for="mes">Mensal</label><br>
+						    	
 						      <input class="with-gap" value="trimestral" name="orcamento" type="radio" id="trimestral" />
-						      <label for="trimestral">Trimestral</label>
+						      <label for="trimestral">Trimestral</label><br>
 						    
 						      <input class="with-gap" value="semestral" name="orcamento" type="radio" id="semestral"  />
-						      <label for="semestral">Semestral</label>
+						      <label for="semestral">Semestral</label><br>
 
 						      <input class="with-gap" value="anual" name="orcamento" type="radio" id="anual"  />
-						      <label for="anual">Anual</label>
+						      <label for="anual">Anual</label><br>
 
 						      <input class="with-gap" value="todos" name="orcamento" type="radio" id="todos"  />
 						      <label for="todos">Todo, para uma análise</label>

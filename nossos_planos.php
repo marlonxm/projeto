@@ -163,7 +163,7 @@
 
 
 		      	<div class="card-price">
-		         	<!-- <h3>R$ 650,00</h3> -->
+		         	<h3>R$ 650,00</h3>
 		      	</div>
 		      		
 
@@ -193,7 +193,7 @@
 		         	<p><i class="fas fa-check"></i> <i class="fab fa-instagram"></i> 3 postagem com criação de arte, no periodo contratado.</p>
 		        </div>
 		        <div class="btn-card">
-		        	<button type="button" class="btn btn-large">Contrate Agora</button>
+		        	<a href="index.php#planos1" class="btn btn-large">Contrate Agora</a>
 		        </div>
 		          
 		    </div>
@@ -207,7 +207,7 @@
 
 
 		      	<div class="card-price">
-		         	<!-- <h3>R$ 630,00</h3> -->
+		         	<h3>R$ 630,00</h3>
 		         	<h6>mensal</h6>
 		      	</div>
 		      		
@@ -238,7 +238,7 @@
 		         	<p><i class="fas fa-check"></i> <i class="fab fa-instagram"></i> 6 postagem com criação de arte, no periodo contratado.</p>
 		        </div>
 		        <div class="btn-card">
-		        	<button type="button" class="btn btn-large">Contrate Agora</button>
+		        	<a href="" class="btn btn-large">Contrate Agora</a>
 		        </div>
 		          
 		    </div>
@@ -253,7 +253,7 @@
 
 
 		      	<div class="card-price">
-		         	<!-- <h3>R$ 590,00</h3> -->
+		         	<h3>R$ 590,00</h3>
 		         	<h6>mensal</h6>
 		      	</div>
 		      		
@@ -284,7 +284,7 @@
 		         	<p><i class="fas fa-check"></i> <i class="fab fa-instagram"></i> 12 postagem com criação de arte, no periodo contratado.</p>
 		        </div>
 		        <div class="btn-card">
-		        	<button type="button" class="btn btn-large">Contrate Agora</button>
+		        	<a href="" class="btn btn-large">Contrate Agora</a>
 		        </div>
 		          
 		    </div>
@@ -298,7 +298,7 @@
 
 
 		      	<div class="card-price">
-		         	<!-- <h3>R$ 500,00</h3> -->
+		         	<h3>R$ 500,00</h3>
 		         	<h6>mensal</h6>
 
 		      	</div>
@@ -330,7 +330,7 @@
 		         	<p><i class="fas fa-check"></i> <i class="fab fa-instagram"></i> 25 postagem com criação de arte, no periodo contratado.</p>
 		        </div>
 		        <div class="btn-card">
-		        	<button type="button" class="btn btn-large">Contrate Agora</button>
+		        	<a href="" class="btn btn-large">Contrate Agora</a>
 		        </div>
 		          
 		    </div>
@@ -374,7 +374,7 @@
 
 
 		      	<div class="card-price">
-		         	<!-- <h3>R$ 500,00</h3> -->
+		         	<h3>R$ 500,00</h3>
 		      	</div>
 		      		
 
@@ -405,7 +405,7 @@
 
 		        </div>
 		        <div class="btn-card">
-		        	<button type="button" class="btn btn-large">Contrate Agora</button>
+		        	<a href="" class="btn btn-large">Contrate Agora</a>
 		        </div>
 		          
 		    </div>
@@ -419,7 +419,7 @@
 
 
 		      	<div class="card-price">
-		         	<!-- <h3>R$ 1.150,00</h3> -->
+		         	<h3>R$ 1.150,00</h3>
 		         	<h6>mensal</h6>
 		      	</div>
 		      		
@@ -454,7 +454,7 @@
 
 		        </div>
 		        <div class="btn-card">
-		        	<button type="button" class="btn btn-large">Contrate Agora</button>
+		        	<a href="" class="btn btn-large">Contrate Agora</a>
 		        </div>
 		          
 		    </div>
@@ -469,7 +469,7 @@
 
 
 		      	<div class="card-price">
-		         	<!-- <h3>R$ 1.100,00</h3> -->
+		         	<h3>R$ 1.100,00</h3>
 		         	<h6>mensal</h6>
 		      	</div>
 		      		
@@ -504,7 +504,7 @@
 
 		        </div>
 		        <div class="btn-card">
-		        	<button type="button" class="btn btn-large">Contrate Agora</button>
+		        	<a href="" class="btn btn-large">Contrate Agora</a>
 		        </div>
 		          
 		    </div>
@@ -518,7 +518,7 @@
 
 
 		      	<div class="card-price">
-		         	<!-- <h3>R$ 1.025,00</h3> -->
+		         	<h3>R$ 1.025,00</h3>
 		         	<h6>mensal</h6>
 		      	</div>
 		      		
@@ -554,7 +554,7 @@
 
 		        </div>
 		        <div class="btn-card">
-		        	<button type="button" class="btn btn-large">Contrate Agora</button>
+		        	<a href="" class="btn btn-large">Contrate Agora</a>
 		        </div>
 		          
 		    </div>
@@ -638,7 +638,7 @@
 
 		        </div>
 		        <div class="btn-card">
-		        	<button type="button" class="btn btn-large">Contrate Agora</button>
+		        	<a href="" class="btn btn-large">Contrate Agora</a>
 		        </div>
 		          
 		    </div>
@@ -652,7 +652,7 @@
 
 
 		      	<div class="card-price">
-		         	<!-- <h3>R$ 1.400,00</h3> -->
+		         	<h3>R$ 1.400,00</h3>
 		         	<h6>mensal</h6>
 		      	</div>
 		      		
@@ -691,7 +691,7 @@
 		         	<p><i class="fas fa-check"></i> <i class="fas fa-video"></i> Produção de 1 comerciais institucional no periodo contratado</p>
 		        </div>
 		        <div class="btn-card">
-		        	<button type="button" class="btn btn-large">Contrate Agora</button>
+		        	<a href="" class="btn btn-large">Contrate Agora</a>
 		        </div>
 		          
 		    </div>
@@ -706,7 +706,7 @@
 
 
 		      	<div class="card-price">
-		         	<!-- <h3>R$ 1.650,00</h3> -->
+		         	<h3>R$ 1.650,00</h3>
 		         	<h6>mensal</h6>
 		      	</div>
 		      		
@@ -745,7 +745,7 @@
 		         	<p><i class="fas fa-check"></i> <i class="fas fa-video"></i> Produção de 2 comerciais institucional no periodo contratado</p>
 		        </div>
 		        <div class="btn-card">
-		        	<button type="button" class="btn btn-large">Contrate Agora</button>
+		        	<a href="" class="btn btn-large">Contrate Agora</a>
 		        </div>
 		          
 		    </div>
@@ -759,7 +759,7 @@
 
 
 		      	<div class="card-price">
-		         	<!-- <h3>R$ 2.400,00</h3> -->
+		         	<h3>R$ 2.400,00</h3>
 		         	<h6>mensal</h6>
 		      	</div>
 		      		
@@ -800,7 +800,7 @@
 
 		        </div>
 		        <div class="btn-card">
-		        	<button type="button" class="btn btn-large">Contrate Agora</button>
+		        	<a href="" class="btn btn-large">Contrate Agora</a>
 		        </div>
 		          
 		    </div>
