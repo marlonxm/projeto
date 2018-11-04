@@ -1,0 +1,28 @@
+@media only screen and (max-width: 600px) {
+	header .navegacao a i { font-size: 3rem; line-height: 65px; color: #9ee925; }
+	#banner h1 { font-size: 2rem; color: #fff;}
+	#banner h3 { font-size: 1.8rem; color: #fff;}
+	#banner h5 { font-size: 1.8rem; color: #fff;}
+	#banner .text-banner .btn-banner button { width: 300px; margin: 30px auto; }
+	#banner .text-banner .btn-banner button:nth-child(1) { margin-bottom: 0; }
+	#sobre aside { margin: 50px 0;}
+	#sobre h5 { margin-bottom: 30px; color: #9ee925; text-transform: uppercase; font-size: 1.5rem;}
+	#sobre img { border: 1px solid #9ee925; }
+	#servicos .modal-content a { width: 100%; margin: 20px 0;}
+}
+
+@media only screen and (min-width: 600px) and (max-width: 992px) {
+    .banner ul li h3 { font-size: 3.2rem; }
+    header .navegacao a i { font-size: 3rem; line-height: 65px; color: #9ee925; }
+    #footer-1 .social .rede-social i { margin: 0 12px;}
+}
+
+@media only screen and (min-width: 1201px) {
+	header img { height: 100px; padding: 6px 0;}
+	header nav { height: 100px; }
+	header .navbar-fixed {height: 100px;}
+	header ul { line-height: 100px; }
+	header .brand-logo { line-height: 100px; }  
+	.bloco {padding: 100px 0 70px;}
+
+ }
