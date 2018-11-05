@@ -3,9 +3,8 @@
 
 	<ul id="tabs-swipe-demo" class="tabs center">
 
-	    <li class="tab col s3"><a href="#mensal">Planos</a></li>
-	    <li class="tab col s3"><a href="#personalizado" class="active">Personalizado</a></li>
-	    <li class="tab col s3"><a href="#detalhes">Saíba mais</a></li>
+	    <li class="tab col s4"><a href="#mensal" class="active">Planos</a></li>
+	    <li class="tab col s4"><a href="#personalizado" >personalizado</a></li>
 
 	</ul>
 
@@ -189,8 +188,6 @@
 		</div> 
 
 		
-			
-		<?php include_once('_includes/saiba-mais.php') ?>
 			
 	</div>
 

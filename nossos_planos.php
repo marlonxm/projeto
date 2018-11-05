@@ -98,7 +98,7 @@
 
 	          <li ><a href="index.php#banner">     		home</a></li>
 	          <li ><a href="index.php#sobre">          	sobre</a></li>
-	          <li ><a href="index.php#servicos">    		serviços</a></li>    
+	          <li ><a href="index.php#servicos">    	serviços</a></li>    
 	          <li ><a href="index.php#planos">    		planos</a></li>
 	          <li ><a href="index.php#contato">       	contatos</a></li> 
 		</ul> 
@@ -162,9 +162,7 @@
 			    </div>
 
 
-		      	<div class="card-price">
-		         	<h3>R$ 650,00</h3>
-		      	</div>
+		      
 		      		
 
 		      	<div class="card-imagem">
@@ -193,7 +191,7 @@
 		         	<p><i class="fas fa-check"></i> <i class="fab fa-instagram"></i> 3 postagem com criação de arte, no periodo contratado.</p>
 		        </div>
 		        <div class="btn-card">
-		        	<a href="index.php#planos1" class="btn btn-large">Contrate Agora</a>
+		        	<a href="formularios/basico-mensal.php" class="btn btn-large">Solicite um orçamento</a>
 		        </div>
 		          
 		    </div>
@@ -204,13 +202,6 @@
 			          	<span class="card-title center">Trimestral</span>
 			      	</div>
 			    </div>
-
-
-		      	<div class="card-price">
-		         	<h3>R$ 630,00</h3>
-		         	<h6>mensal</h6>
-		      	</div>
-		      		
 
 		      	<div class="card-imagem">
 		      		<div class="img-card">
@@ -238,7 +229,7 @@
 		         	<p><i class="fas fa-check"></i> <i class="fab fa-instagram"></i> 6 postagem com criação de arte, no periodo contratado.</p>
 		        </div>
 		        <div class="btn-card">
-		        	<a href="" class="btn btn-large">Contrate Agora</a>
+		        	<a href="formularios/basico-trimestral.php" class="btn btn-large">Solicite um orçamento</a>
 		        </div>
 		          
 		    </div>
@@ -250,12 +241,6 @@
 			          	<span class="card-title center">Semestral</span>
 			      	</div>
 			    </div>
-
-
-		      	<div class="card-price">
-		         	<h3>R$ 590,00</h3>
-		         	<h6>mensal</h6>
-		      	</div>
 		      		
 
 		      	<div class="card-imagem">
@@ -284,7 +269,7 @@
 		         	<p><i class="fas fa-check"></i> <i class="fab fa-instagram"></i> 12 postagem com criação de arte, no periodo contratado.</p>
 		        </div>
 		        <div class="btn-card">
-		        	<a href="" class="btn btn-large">Contrate Agora</a>
+		        	<a href="formularios/basico-semestral.php" class="btn btn-large">Solicite um orçamento</a>
 		        </div>
 		          
 		    </div>
@@ -295,13 +280,6 @@
 			          	<span class="card-title center">Anual</span>
 			      	</div>
 			    </div>
-
-
-		      	<div class="card-price">
-		         	<h3>R$ 500,00</h3>
-		         	<h6>mensal</h6>
-
-		      	</div>
 		      		
 
 		      	<div class="card-imagem">
@@ -330,7 +308,7 @@
 		         	<p><i class="fas fa-check"></i> <i class="fab fa-instagram"></i> 25 postagem com criação de arte, no periodo contratado.</p>
 		        </div>
 		        <div class="btn-card">
-		        	<a href="" class="btn btn-large">Contrate Agora</a>
+		        	<a href="formularios/basico-anual.php" class="btn btn-large">Solicite um orçamento</a>
 		        </div>
 		          
 		    </div>
@@ -372,12 +350,6 @@
 			      	</div>
 			    </div>
 
-
-		      	<div class="card-price">
-		         	<h3>R$ 500,00</h3>
-		      	</div>
-		      		
-
 		      	<div class="card-imagem-standart">
 		      		<div class="img-card">
 			         	<img src="_img/planos/site.png" >
@@ -405,7 +377,7 @@
 
 		        </div>
 		        <div class="btn-card">
-		        	<a href="" class="btn btn-large">Contrate Agora</a>
+		        	<a href="formularios/standart-mensal.php" class="btn btn-large">Solicite um orçamento</a>
 		        </div>
 		          
 		    </div>
@@ -416,13 +388,6 @@
 			          	<span class="card-title center">Trimestral</span>
 			      	</div>
 			    </div>
-
-
-		      	<div class="card-price">
-		         	<h3>R$ 1.150,00</h3>
-		         	<h6>mensal</h6>
-		      	</div>
-		      		
 
 		      	<div class="card-imagem-standart">
 		      		<div class="img-card">
@@ -454,7 +419,7 @@
 
 		        </div>
 		        <div class="btn-card">
-		        	<a href="" class="btn btn-large">Contrate Agora</a>
+		        	<a href="formularios/standart-trimestral.php" class="btn btn-large">Solicite um orçamento</a>
 		        </div>
 		          
 		    </div>
@@ -466,12 +431,6 @@
 			          	<span class="card-title center">Semestral</span>
 			      	</div>
 			    </div>
-
-
-		      	<div class="card-price">
-		         	<h3>R$ 1.100,00</h3>
-		         	<h6>mensal</h6>
-		      	</div>
 		      		
 
 		      	<div class="card-imagem-standart">
@@ -504,7 +463,7 @@
 
 		        </div>
 		        <div class="btn-card">
-		        	<a href="" class="btn btn-large">Contrate Agora</a>
+		        	<a href="formularios/standart-semestral.php" class="btn btn-large">Solicite um orçamento</a>
 		        </div>
 		          
 		    </div>
@@ -515,12 +474,6 @@
 			          	<span class="card-title center">Anual</span>
 			      	</div>
 			    </div>
-
-
-		      	<div class="card-price">
-		         	<h3>R$ 1.025,00</h3>
-		         	<h6>mensal</h6>
-		      	</div>
 		      		
 
 		      	<div class="card-imagem-standart">
@@ -554,7 +507,7 @@
 
 		        </div>
 		        <div class="btn-card">
-		        	<a href="" class="btn btn-large">Contrate Agora</a>
+		        	<a href="formularios/standart-anual.php" class="btn btn-large">Solicite um orçamento</a>
 		        </div>
 		          
 		    </div>
@@ -603,12 +556,6 @@
 			      	</div>
 			    </div>
 
-
-		      	<div class="card-price">
-		         	<!-- <h3>R$ 500,00</h3> -->
-		      	</div>
-		      		
-
 		      	<div class="card-imagem-plus">
 		      		<div class="img-card">
 			         	<img src="_img/planos/site.png" >
@@ -638,7 +585,7 @@
 
 		        </div>
 		        <div class="btn-card">
-		        	<a href="" class="btn btn-large">Contrate Agora</a>
+		        	<a href="formularios/plus-mensal.php" class="btn btn-large">Solicite um orçamento</a>
 		        </div>
 		          
 		    </div>
@@ -649,12 +596,6 @@
 			          	<span class="card-title center">Trimestral</span>
 			      	</div>
 			    </div>
-
-
-		      	<div class="card-price">
-		         	<h3>R$ 1.400,00</h3>
-		         	<h6>mensal</h6>
-		      	</div>
 		      		
 
 		      	<div class="card-imagem-plus">
@@ -691,7 +632,7 @@
 		         	<p><i class="fas fa-check"></i> <i class="fas fa-video"></i> Produção de 1 comerciais institucional no periodo contratado</p>
 		        </div>
 		        <div class="btn-card">
-		        	<a href="" class="btn btn-large">Contrate Agora</a>
+		        	<a href="formularios/plus-trimestral.php" class="btn btn-large">Solicite um orçamento</a>
 		        </div>
 		          
 		    </div>
@@ -703,12 +644,6 @@
 			          	<span class="card-title center">Semestral</span>
 			      	</div>
 			    </div>
-
-
-		      	<div class="card-price">
-		         	<h3>R$ 1.650,00</h3>
-		         	<h6>mensal</h6>
-		      	</div>
 		      		
 
 		      	<div class="card-imagem-plus">
@@ -745,7 +680,7 @@
 		         	<p><i class="fas fa-check"></i> <i class="fas fa-video"></i> Produção de 2 comerciais institucional no periodo contratado</p>
 		        </div>
 		        <div class="btn-card">
-		        	<a href="" class="btn btn-large">Contrate Agora</a>
+		        	<a href="formularios/plus-semestral.php" class="btn btn-large">Solicite um orçamento</a>
 		        </div>
 		          
 		    </div>
@@ -756,12 +691,6 @@
 			          	<span class="card-title center">Anual</span>
 			      	</div>
 			    </div>
-
-
-		      	<div class="card-price">
-		         	<h3>R$ 2.400,00</h3>
-		         	<h6>mensal</h6>
-		      	</div>
 		      		
 
 		      	<div class="card-imagem-plus">
@@ -800,7 +729,7 @@
 
 		        </div>
 		        <div class="btn-card">
-		        	<a href="" class="btn btn-large">Contrate Agora</a>
+		        	<a href="formularios/plus-anual.php" class="btn btn-large">Solicite um orçamento</a>
 		        </div>
 		          
 		    </div>
@@ -859,6 +788,14 @@
 			$(".button-collapse").sideNav({
 				closeOnClick: true
 			});
+
+			$(window).on("scroll", function(){
+					if($(window).scrollTop() > 0 ) {
+						$('nav').addClass('nav-color');
+					} else {
+						$('nav').removeClass('nav-color');
+					}
+				});
 			// MENU MOBILI
     		$('ul.tabs').tabs('select_tab', 'tab_id');
 			$('ul.tabs').tabs();

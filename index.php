@@ -118,5 +118,16 @@
 		});
 
 	</script>
+
+	<?php 
+		// Colar na index.php o bloco abaixo 
+		if(isset($_GET['status'])): 
+			if($_GET['status'] == "sucesso"): 
+			echo "<script>Materialize.toast('Enviado com sucesso!', 4000);</script>"; 
+				else: 
+			echo "<script>Materialize.toast('Erro ao enviar', 4000);</script>"; 
+			endif; 
+		endif; 
+	?>
 </body>
 </html>
