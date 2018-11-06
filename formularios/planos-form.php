@@ -1,7 +1,7 @@
 <?php
 
 	$nome       	= $_POST['nome'];
-	$empresa  		= $_POST['empresa']
+	$empresa  		= $_POST['empresa'];
     $email        	= $_POST['email'];
     $celular		= $_POST['fone'];
     $cidade			= $_POST['cidade'];
@@ -21,12 +21,12 @@
 
 
 	$to = "contato@mbmedia.com.br";
-	$subject = "Orçamento Contratado";
+	$subject = "Orçamento $orcamento";
 
 	$message = "
 	<html>
 	<head>
-	<title>Orçamento $orcamento</title>
+	<title>Orçamento Contratato - $orcamento</title>
 
 	</head>
 	<body>

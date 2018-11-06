@@ -3,8 +3,8 @@
 	<div class="row container-esp">
 		<div class="col s12 m6 social offset-m3">
 			<img src="../_img/logo/11.png" alt="logo-marca">
-			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, </p><p>sed do eiusmod
-			tempor incididunt ut labore.</p>
+			
+			<p>Torne-se digital com a MBMedia </p>
 			<div class="rede-social center">
 				<a href="https://www.facebook.com/mbmedias" target="_blank"><i class="fab fa-facebook-f"></i></a>
 				<a href="https://www.instagram.com/mbmedias/" target="_blank"><i class="fab fa-instagram"></i></a>

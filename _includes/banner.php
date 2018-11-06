@@ -6,11 +6,11 @@
 
 				<h3>Oferecemos a você esta oportunidade</h3>
 
-				<h5 class="wow animate bounceInUp delay-1s">Torne-se <span>"digital"</span></h5>
+				<h5>Torne-se <span>"digital"</span></h5>
 
 				<div class="btn-banner center">
-					<a href="#contato"><button class="btn btn-large wow animate bounceInLeft">contato</button></a>
-					<a href="#sobre"><button class="btn btn-large wow animate bounceInRight">Sobre MBMedia</button></a>
+					<a href="nossos_planos.php"><button class="btn btn-large">planos</button></a>
+					<a href="#sobre"><button class="btn btn-large">Sobre MBMedia</button></a>
 				</div>
 
 			</div>

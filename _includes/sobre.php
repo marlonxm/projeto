@@ -1,6 +1,6 @@
 <section id="sobre" class="bloco scrollspy">
 		<div class="row container-esp">
-				<h4 class="text-titulo wow animate lightSpeedIn"> Um pouco sobre MBM<span class="minusculas">edia</h4>
+				<h4 class="text-titulo"> Um pouco sobre MBM<span class="minusculas">edia</h4>
 				<hr class="traco">
 			<div class="col s12 m6">
 				<p> A MBMedia está localizado no noroeste do Paraná. Trabalhamos hoje para que empresas e autonômos tenham a possibilidade de serem vistos por pessoas de todas as localidades. Temos como foco torna-lo cada vez mais visível nas mídias sociais.
@@ -17,7 +17,7 @@
 
 			<div class="col s12 m6">
 				<h5 >Sites totalmente responsivo</h5>
-				<img src="_img/responsivo/rp05.jpg" class="wow animate slideInRight">
+				<img src="_img/responsivo/rp05.jpg">
 				<p>Temos o foco de desenvolvimento de Site com tecnicas de SEO com integração no Google Ads, gerenciamento de rede-sociais como Facebook, Instagram, Comerciais para Redes Sociais. </p><p class="center">Tudo para tornar seu negócio, Digital.</p>
 			</div>
 		</div>		

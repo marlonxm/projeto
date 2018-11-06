@@ -10,7 +10,7 @@
 			      <a href="#" class="brand-logo center hide-on-small-only"><img src="../_img/logo/11.png" alt="logo-marca"></a>
 
 
-			      <a href="#" class="brand-logo left hide-on-med-and-up"><img src="_img/logo/11.png" alt="logo-marca"></a>
+			      <a href="#" class="brand-logo left hide-on-med-and-up"><img src="../_img/logo/11.png" alt="logo-marca"></a>
 
 
 			      <a href="#" data-activates="mobile-demo" class="button-collapse btn-menu right"><i class="material-icons">menu</i></a>
@@ -35,7 +35,7 @@
 
 
 		<ul class="side-nav" id="mobile-demo">  
-      			<img src="_img/logo/11.png" width="33%" style="margin-left: 34%;">
+      			<img src="../_img/logo/11.png" width="33%" style="margin-left: 34%;">
 
 	          <li ><a href="../index.php#banner">     		home</a></li>
 	          <li ><a href="../index.php#sobre">          	sobre</a></li>

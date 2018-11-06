@@ -42,7 +42,7 @@
 			
 
 			<div class="row">
-				<div class="formulario col s12 m6 offset-m3">
+				<div class="formulario col s12 m8 offset-m2 l6 offset-l3">
 					<div class="col s12 center">
 						<h3>Preencha esse formulário que lhe enviaremos o(s) valor(es) conforme solicitado.</h3>						
 						<h6>Entraremos em contato o mais rápido possível</h6>
@@ -142,6 +142,9 @@
 	<script src="../_js/swiper.min.js"></script> 
 	<script>
 		$(document).ready(function() {
+			$(".button-collapse").sideNav({
+				closeOnClick: true
+			});
 
 			$('#phone').mask('(00) 00000-0000');
 		});

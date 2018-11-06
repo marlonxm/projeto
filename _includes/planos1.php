@@ -3,8 +3,8 @@
 
 	<ul id="tabs-swipe-demo" class="tabs center">
 
-	    <li class="tab col s4"><a href="#mensal" class="active">Planos</a></li>
-	    <li class="tab col s4"><a href="#personalizado" >personalizado</a></li>
+	    <li class="tab col s3"><a href="#mensal" class="active">Planos</a></li>
+	    <li class="tab col s3"><a href="#personalizado" >personalizado</a></li>
 
 	</ul>
 
@@ -23,7 +23,8 @@
 					<hr class="traco">
 				<div class="valor">
 					<h5> A partir de</h5>
-					<h4>R$ 500,00</h4>
+					<h4>R$ 600,00</h4>
+					<!-- Planos Anual - Basico -->
 				</div>
 				
 			</div>
@@ -42,7 +43,9 @@
 					<hr class="traco">
 					<div class="valor">
 						<h5> A partir de</h5>
-						<h4>R$ 950,00</h4>
+						<h4>R$ 1.100,00</h4>
+						<!-- Plano Anual - Standart -->
+
 					</div>
 					
 			</div>
@@ -62,14 +65,14 @@
 					<hr class="traco">
 					<div class="valor">
 						<h5> A partir de</h5>
-						<h4>R$ 1500,00</h4>
+						<h4>R$ 1200,00</h4>
 					</div>
 					
 			</div>
 
 			<div class="s12 center link-planos">
 				
-					<a href="nossos_planos.php">
+				<a href="nossos_planos.php">
 					<i class="fas fa-arrow-right" ></i>
 						Confira nossos planos
 					<i class="fas fa-arrow-left"></i>

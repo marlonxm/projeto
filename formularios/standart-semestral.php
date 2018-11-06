@@ -3,7 +3,7 @@
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=divice-width, initial-scale=1.0">
-	<title>Planos Basico - Mensal</title>
+	<title>Planos Standart - Semestral</title>
 	<meta name="generator" content="www.mbmedia.com.br">
 	<meta name="description" content="Torne a sua ideais em Digital, com a MBMedia">
 	<meta name="keywords" content="desenvolvimento de sites, publicidade e propaganda, gerenciamento de redes sociais, desenvolvimento de site maringá, criação de sites, criar sites, gerenciamento de instagram, gerenciamento de facebook, google adword, facebook ads, site, tecnicas de seo">
@@ -42,7 +42,7 @@
 			
 
 			<div class="row">
-				<div class="formulario col s12 m6 offset-m3">
+				<div class="formulario col s12 m8 offset-m2 l6 offset-l3">
 					<div class="col s12 center">
 						<h3>Preencha esse formulário que lhe enviaremos o(s) valor(es) conforme solicitado.</h3>						
 						<h6>Entraremos em contato o mais rápido possível</h6>
@@ -142,6 +142,9 @@
 	<script src="../_js/swiper.min.js"></script> 
 	<script>
 		$(document).ready(function() {
+			$(".button-collapse").sideNav({
+				closeOnClick: true
+			});
 
 			$('#phone').mask('(00) 00000-0000');
 		});

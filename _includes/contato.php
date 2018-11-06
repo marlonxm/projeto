@@ -80,7 +80,7 @@
 				</div>
 
 				<div class="col s12 m4">
-					<h5 class="center"><a href="#planos" class="text-list">"Confira nossos planos"</a></h5>			
+					<h5 class="center"><a href="nossos_planos.php" class="text-list">"Confira nossos planos"</a></h5>			
 				</div>
 			</div>
 
