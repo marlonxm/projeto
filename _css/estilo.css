@@ -91,6 +91,7 @@ header .side-nav li a:hover { background-color: rgba(158, 233, 37, 0.3);  }
 #mensal .link-planos i:nth-child(1) { font-size: 3rem; color: #fff; margin: 0 10% 0 0; transition: 0.5s;  text-shadow: 4px 4px 4px #000;}
 #mensal .link-planos i:nth-child(2) { font-size: 3rem; color: #fff; margin: 0 0 0 10%; transition: 0.5s;  text-shadow: 4px 4px 4px #000;}
 #mensal .link-planos a:hover i { margin: 0 3%; }
+#plano .social-img { padding: 0 0; }
 #planos .plano-basico { margin: 40px 0; }
 #planos .plano-basico h3 {color: #fff; text-transform: capitalize; font-family: monofonto; font-size: 3.5rem;}
 #planos .plano-basico .social-img img { width: 10%; margin-left: 6%; padding: 20px 0;}
@@ -174,7 +175,6 @@ header .side-nav li a:hover { background-color: rgba(158, 233, 37, 0.3);  }
 #planos-basico-form .formulario form input.botao:hover { background-color: #9ee925 ; color: #1d2331; font-weight: bold;}
 #planos-basico-form h3 { color: #fff; font-size: 2rem; }
 #planos-basico-form h6 { color: #fff; font-size: 1.2rem; margin: 30px 20px;}
-
 #planos-standart-form { background-image: radial-gradient(#1d2331, #141414);}
 #planos-standart-form .formulario  {background-color: rgba(29, 35, 49); padding: 50px 0; margin-top: 50px; border: 1px solid #9ee925; border-radius: 14px;}
 #planos-standart-form .formulario form input.botao { background-color: #1d2331 ; color: #9ee925; transition: 0.5s; width: 50%; margin: 20px 25%;}

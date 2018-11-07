@@ -9,8 +9,9 @@
 	#sobre h5 { margin-bottom: 30px; color: #9ee925; text-transform: uppercase; font-size: 1.5rem;}
 	#sobre img { border: 1px solid #9ee925; }
 	#servicos .modal-content a { width: 100%; margin: 20px 0;}
-    #mensal .link-planos a { font-size: 1.7rem;}
+    #mensal .link-planos a { font-size: 2rem;}
     #mensal .link-planos i {display: none;}
+    #nossos-planos .tabs a { font-size: 1.2rem; }
 }
 
 @media only screen and (min-width: 600px) and (max-width: 992px) {
