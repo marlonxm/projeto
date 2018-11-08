@@ -1,0 +1,5 @@
+user agent: *
+disallow: /_css/
+disallow: /_js/
+disallow: /_fonts/
+disallow: /_includes/

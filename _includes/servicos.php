@@ -105,7 +105,7 @@
 			<article class="col s12 m6 l3">
 				<div class="card wow animate fadeInUp">
 					<div class="card-image">
-						<img src="_img/sociais/site.png" alt="Site" class="materialboxed">
+						<img src="_img/responsivo/rp04.jpg" alt="Site" class="materialboxed">
 						<a href="#site-modal" class="btn btn-floating halfway-fab modal-trigger" style="background-color: #6ead00;">
 							<i class="material-icons">more_horiz</i>
 						</a>

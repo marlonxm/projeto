@@ -16,8 +16,8 @@
 	<meta property="og:locale" content="pt_BR">
 	<meta property="og:image" content="https://www.mbmedia.com.br/_img/responsivo/rp05.jpg">
 	<meta property="og:description" content="Criação de Site e gerenciamenoto de redes sociais com técnicas modernas nos mecanismo de busca">
-	<meta property="article:author" content="https://www.facebook.com/MB-Media-287942775393073/?modal=admin_todo_tours">
-	<meta property="article:publisher" content="https://www.facebook.com/MB-Media-287942775393073/?modal=admin_todo_tour">
+	<meta property="article:author" content="https://www.facebook.com/mbmedias">
+	<meta property="article:publisher" content="https://www.facebook.com/mbmedias">
 
 
 
@@ -57,6 +57,16 @@
 	
 </head>
 <body>
+
+	<div id="fb-root"></div>
+		<script>(function(d, s, id) {
+			  var js, fjs = d.getElementsByTagName(s)[0];
+			  if (d.getElementById(id)) return;
+			  js = d.createElement(s); js.id = id;
+			  js.src = 'https://connect.facebook.net/pt_BR/sdk.js#xfbml=1&version=v3.2';
+			  fjs.parentNode.insertBefore(js, fjs);
+			}(document, 'script', 'facebook-jssdk'));
+		</script>
 	
 	<?php 
 
@@ -71,6 +81,8 @@
 		include_once('_includes/planos1.php'); 
 
 		include_once('_includes/contato.php'); 
+
+		include_once('_includes/face-curtir.php');
 
 		include_once('_includes/newsletter.php');
 
